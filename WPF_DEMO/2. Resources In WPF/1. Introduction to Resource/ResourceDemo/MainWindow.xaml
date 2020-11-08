@@ -1,0 +1,28 @@
+﻿<Window x:Class="ResourceDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ResourceDemo"
+        mc:Ignorable="d"
+        Title="Main Window" Height="450" Width="800">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="Brush1">
+            <GradientStop Offset="0.4" Color="Coral"/>
+            <GradientStop Offset="0.2" Color="Yellow"/>
+            <GradientStop Offset="0.2" Color="Green"/>
+        </LinearGradientBrush>
+    </Window.Resources>
+    <Grid Background="{StaticResource Brush1}">
+        <TextBlock Text="Hello world">
+            <TextBlock.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                    <Setter Property="FontSize" Value="50"/>
+                </Style>
+            </TextBlock.Resources>
+        </TextBlock>
+    </Grid>
+</Window>

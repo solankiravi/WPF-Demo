@@ -1,0 +1,30 @@
+﻿<Window x:Class="TypesOfDocument.FlowDocument"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TypesOfDocument"
+        mc:Ignorable="d"
+        Title="FlowDocument" Height="450" Width="800">
+    <Grid>
+        <FlowDocumentReader>
+            <FlowDocument>
+                <Paragraph>
+                    <Bold>Some bold text in the paragraph.</Bold>
+                    Some text that is not bold.
+                </Paragraph>
+                <List>
+                    <ListItem>
+                        <Paragraph>ListItem 1</Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph>ListItem 2</Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph>ListItem 3</Paragraph>
+                    </ListItem>
+                </List>
+            </FlowDocument>
+        </FlowDocumentReader>
+    </Grid>
+</Window>

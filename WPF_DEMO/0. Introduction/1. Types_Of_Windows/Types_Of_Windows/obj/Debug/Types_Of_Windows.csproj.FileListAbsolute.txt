@@ -1,0 +1,40 @@
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\bin\Debug\Types_Of_Windows.exe.config
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\bin\Debug\Types_Of_Windows.exe
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\bin\Debug\Types_Of_Windows.pdb
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.csprojAssemblyReference.cache
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\MainWindow.g.cs
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\NavigationWindowDemo.g.cs
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\App.g.cs
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows_MarkupCompile.cache
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows_MarkupCompile.lref
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\MainWindow.baml
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\NavigationWindowDemo.baml
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.g.resources
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.Properties.Resources.resources
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.csproj.GenerateResource.cache
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.exe
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.pdb
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Pages\Page1.g.cs
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Pages\Page2.g.cs
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Pages\Page1.baml
+C:\Users\Ravi\Desktop\c#\WPF\WPF DEMOS\1. Introduction\Types_Of_Windows\Types_Of_Windows\obj\Debug\Pages\Page2.baml
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\bin\Debug\Types_Of_Windows.exe.config
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\bin\Debug\Types_Of_Windows.exe
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\bin\Debug\Types_Of_Windows.pdb
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.csprojAssemblyReference.cache
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\NavigationWindowDemo.g.cs
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Pages\Page1.g.cs
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Pages\Page2.g.cs
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\App.g.cs
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows_MarkupCompile.cache
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows_MarkupCompile.lref
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\NavigationWindowDemo.baml
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Pages\Page1.baml
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Pages\Page2.baml
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.g.resources
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.Properties.Resources.resources
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.csproj.GenerateResource.cache
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.csproj.CoreCompileInputs.cache
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.exe
+C:\Users\ravik\OneDrive\Microsoft update\Desktop\Youtube\WPF-Demo\WPF_DEMOS\0. Introduction\1. Types_Of_Windows\Types_Of_Windows\obj\Debug\Types_Of_Windows.pdb

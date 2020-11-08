@@ -1,0 +1,45 @@
+﻿<Window x:Class="Multimedia_Support.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Multimedia_Support"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Menu>
+            <MenuItem Name="Open" Header="Browse" Click="Open_Click"/>
+            <MenuItem Name="Speech" Header="TextTAudio" Click="Speech_Click"/>
+        </Menu>
+        <MediaElement Name="VideoSection" Grid.Row="1"
+                      LoadedBehavior="Play"/>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Play" Grid.Column="0" Margin="5"
+                        Name="PlayBtn" Click="PlayBtn_Click"/>
+                <Button Content="Mute" Grid.Column="1" Margin="5"
+                        Name="MuteBtn" Click="MuteBtn_Click"/>
+                <TextBlock Text="Volumne Control" Margin="5"
+                           VerticalAlignment="Center"/>
+                <Slider Name="VolumeControl" Grid.Column="2" Margin="5"
+                        MinWidth="200"
+                        Value="20"
+                        ValueChanged="VolumeControl_ValueChanged"
+                       
+                        Maximum="200"/>
+                
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
